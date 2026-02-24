@@ -8,9 +8,7 @@ export function TopNav() {
           <ShieldCheck className="w-4 h-4 text-background" />
         </div>
         <div className="flex items-center gap-2">
-          <span className="text-sm font-semibold text-foreground tracking-tight">Joyful</span>
-          <span className="text-border">·</span>
-          <span className="text-xs text-muted-foreground">Claims Review</span>
+          <span className="text-sm font-semibold text-foreground tracking-tight">Claims Review Assistant</span>
         </div>
       </div>
     </header>

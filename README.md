@@ -1,4 +1,4 @@
-# Joyful AI: Claims Review Assistant
+# Claims Review Assistant
 
 An AI-powered claims review assistant for healthcare billing specialists. Review denied and unpaid insurance claims with AI guidance, while keeping humans firmly in control of every decision.
 
@@ -72,3 +72,4 @@ There are two paths to update a claim's status: (a) approve an AI-suggested acti
 - **Persistent state**: claims, chat history, and tool states survive page refresh
 - **Error handling**: ErrorBoundary, API validation, toast notifications
 - **Mobile-responsive layout**: adaptive 1/2/3-column layout across mobile, tablet, and desktop
+

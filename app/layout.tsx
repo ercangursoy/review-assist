@@ -16,7 +16,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Joyful AI — Claims Review Assistant",
+  title: "Claims Review Assistant",
   description: "AI-powered insurance claims review assistant for billing specialists",
 };
 
