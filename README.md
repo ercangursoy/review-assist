@@ -1,6 +1,6 @@
 # Claims Review Assistant
 
-An AI-powered claims review assistant for healthcare billing specialists. Review denied and unpaid insurance claims with AI guidance, while keeping humans firmly in control of every decision.
+An AI-powered claims review assistant for healthcare billing specialists. Review denied and unpaid insurance claims with AI guidance, while keeping humans firmly in control of every decision. 
 
 **Live Demo**: https://ai-review-assist.vercel.app
 
