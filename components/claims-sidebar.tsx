@@ -108,7 +108,7 @@ export function ClaimsSidebar() {
             placeholder="Search claims…"
             value={search}
             onChange={(e) => setSearch(e.target.value)}
-            className="w-full pl-8 pr-2.5 py-1.5 text-[0.8125rem] rounded-md border border-border bg-muted/50 placeholder:text-muted-foreground focus:outline-none focus:ring-1 focus:ring-ring focus:border-ring focus:bg-background transition"
+            className="w-full pl-8 pr-2.5 py-1.5 text-[0.8125rem] rounded-md border border-border bg-card placeholder:text-muted-foreground focus:outline-none focus:ring-1 focus:ring-ring focus:border-ring transition"
           />
         </div>
       </div>

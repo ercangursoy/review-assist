@@ -215,7 +215,7 @@ export function ChatInterface() {
             disabled={!selectedClaimId || isLoading}
             rows={1}
             className={cn(
-              "flex-1 resize-none rounded-md border border-input bg-background px-3 py-2 text-[0.8125rem]",
+              "flex-1 resize-none rounded-md border border-input bg-card px-3 py-2 text-[0.8125rem]",
               "placeholder:text-muted-foreground focus:outline-none focus:ring-1 focus:ring-ring focus:border-ring",
               "disabled:opacity-50 disabled:cursor-not-allowed max-h-28 overflow-y-auto transition"
             )}
